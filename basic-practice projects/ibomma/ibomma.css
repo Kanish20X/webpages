@@ -130,4 +130,5 @@ footer{
     background-color: rgb(12, 7, 0);
     display: flex;
     justify-content: space-between;
+    padding-bottom: 20px;
 }
